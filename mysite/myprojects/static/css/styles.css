@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    margin: 20;
+}
+
+div.row {
+    justify-content: center;
+}
+
+.card-img-page {
+    padding-left: 50px;
+}
+
+.project-details {
+    text-align: left;
+    margin: 20 50;
+}
